@@ -1,0 +1,22 @@
+    <table class="table table-dark">
+        <thead>
+          <tr>
+            <th scope="col">{{tableHeader.name}}</th>
+            <th scope="col">{{tableHeader.address}}</th>
+            <th scope="col">{{tableHeader.designation}}</th>
+            <th scope="col">{{tableHeader.experience}}</th>
+            <th scope="col">{{tableHeader.salary}}</th>
+            <th scope="col">{{tableHeader.mob}}</th>
+          </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor = "let _tableData of tableData.data;">
+                <th scope="col">{{_tableData.name}}</th>
+                <th scope="col">{{_tableData.address}}</th>
+                <th scope="col">{{_tableData.designation}}</th>
+                <th scope="col">{{_tableData.experience}}</th>
+                <th scope="col">{{_tableData.salary}}</th>
+                <th scope="col">{{_tableData.mob}}</th>
+              </tr>
+        </tbody>
+      </table>

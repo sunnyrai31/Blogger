@@ -1,0 +1,34 @@
+[
+    {
+    "name":"sunny",
+    "address":"Bangalore",
+    "mobile-number":"9643478959",
+    "designation":"Software Engineer",
+    "salary":"DontShare",
+    "experience":"3.2"
+    },
+    {
+    "name":"sunny1",
+    "address":"Bangalore1",
+    "mobile-number":"9643478959",
+    "designation":"Software Engineer1",
+    "salary":"DontShare1",
+    "experience":"3.21"
+    },
+    {
+    "name":"sunny2",
+    "address":"Bangalore2",
+    "mobile-number":"9643478959",
+    "designation":"Software Engineer2",
+    "salary":"DontShare2",
+    "experience":"3.22"
+    },
+    {
+    "name":"sunny3",
+    "address":"Bangalore3",
+    "mobile-number":"9643478959",
+    "designation":"Software Engineer3",
+    "salary":"DontShare3",
+    "experience":"3.23"
+    }
+]
